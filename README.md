@@ -31,13 +31,14 @@ Intel Image Classification [kaggle](https://www.kaggle.com/datasets/puneet6060/i
 ```
 📦 Fakenews-Classifier
 ├── README.md
-├── Model.pkl
+├── VGG16-IntelImage.ipynb
 ├── requirements.txt
+├── kaggle_envirorment_variables.txt
 ```
 ## Tools Used
 - Programming language : Python
 
-- Visualization : Matplotlib and Seaborn
+- Visualization : Matplotlib
 
 - VGG16 Pretrained Model
 
